@@ -2,6 +2,7 @@
 #include <string.h>
 
 // user A change naja
+// user A as the same
 
 void main()
 { char Name[40], G[5], answer[10];
