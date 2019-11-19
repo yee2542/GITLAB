@@ -2,6 +2,8 @@
 #include <string.h>
 
 // user A change naja
+// Author by Nitpum
+// This is very cool comment
 
 void main()
 { char Name[40], G[5], answer[10];
